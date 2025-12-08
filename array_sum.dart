@@ -6,5 +6,5 @@ num arraySum(List<num> arr) {
 }
 
 void main() {
-    print(arraySum([]));
+    print(arraySum([-11, -12, -13, -14, -15]));
 }
