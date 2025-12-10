@@ -6,7 +6,3 @@ String noSpace(String x) {
 void main() {
     print(noSpace("    eu    amo    apertar   a    barra    de espaço    "));
 }
-
-
-
-

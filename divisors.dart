@@ -7,7 +7,7 @@ List<int> divisors(int number){
     }
   }
 
-  return 6;
+  return divisors;
 }
 
 void main() {
